@@ -12,6 +12,7 @@
 4. 딥러닝 라이브러리 : torch
 
 5. 실험 및 결과 요약
+
 Result 1
 <br/>![사진1](https://github.com/VisSeongJaeKim/ActiveSuspension_DDPG/blob/master/images/Rewardpg.PNG)
   - Reinforcement Learning의 학습되는 것을 알아보는 척도로 Reward를 사용할 수 있는데 이 때 Reward가 0에 수렴하는 것으로 보아 
