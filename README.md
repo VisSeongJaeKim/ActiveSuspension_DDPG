@@ -16,4 +16,6 @@
     잘되는 것을 알 수 있다. 
   - 노면의 상태가 바뀌어도 DDPG를 이용한 Active Suspension 사용시 차체의 변위가 줄어든 것을 확인할 수 있다.
 
-6. 
+6. 코드에 대한 간략 설명
+  - state_space_model.py
+  - main.py
