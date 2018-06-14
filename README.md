@@ -27,5 +27,6 @@ Result 3
 
 6. 코드에 대한 간략 설명
   - state_space_model.py
-
+    강화학습에 사용될 environment에 해당됩니다. 모델의 변수, reward식, 각episode 당 끝나는 조건을 바꿀 수 있습니다.
   - main.py
+    environment를 불러오고, episode를 몇번 실행시킬건지 결정하고, actor-critic network를 학습시키고 테스트를 합니다.
